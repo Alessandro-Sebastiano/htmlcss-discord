@@ -8,7 +8,7 @@ body {
     color: #ffffff;
 }
 
-
+/*font-style*/
 h1 {
     font-size: 56px;
     margin-bottom: 40px;
@@ -37,6 +37,7 @@ a {
 }
 
 
+/*flex-rules*/
 .flex-box {
     display: flex;
 }
@@ -160,4 +161,9 @@ a {
 
 .paragraph-reverse {
     padding: 0 120px 0 0;
+}
+
+
+.main-box-bg {
+    background-color: #f6f6f6;
 }
