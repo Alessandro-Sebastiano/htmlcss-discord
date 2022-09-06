@@ -47,9 +47,6 @@ p {
     margin-top: 30px;
 }
 
-.button a {
-    font-size: 20px;
-}
 
 i {
     margin: 0 5px;
@@ -61,6 +58,13 @@ span {
 }
 
 
+.button a {
+    font-size: 20px;
+}
+
+
+
+/*hero/text-image*/
 .hero {
     background-color: rgba(35, 39, 42, 255);
     background-image: none;
@@ -97,6 +101,8 @@ span {
 }
 
 
+
+/*button-style*/
 .blue {
     margin: 0 20px 0 0;
 }
@@ -114,11 +120,15 @@ span {
     margin: 15px 0 0 0;
 }
 
+
+/*cards*/
 .card-box {
     flex-wrap: nowrap;
     padding: 120px 40px;
 }
 
+
+/*card-style*/
 .card {
     width: 580px;
     height: 600px;
@@ -149,6 +159,8 @@ span {
 
 
 
+
+/*footer*/
 .menu-list span {
     color: #7086d6;
 }
