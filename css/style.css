@@ -27,12 +27,13 @@ h3 {
 
 
 h4 {
-    font-size: 24px;
+    font-size: 26px;
+    font-weight: 900;
     color: #6f85d4;
 }
 
 p {
-    font-size: 26px;
+    font-size: 25px;
     color: inherit;
     margin-top: 30px;
 }
@@ -40,6 +41,7 @@ p {
 
 span {
     color: #7086d6;
+    font-weight: 600;
 }
 
 ul {
@@ -53,7 +55,7 @@ a {
 
 
 i {
-    margin: 0 5px;
+    margin-right: 5px;
 }
 
 
@@ -313,7 +315,9 @@ i {
 .social-icons {
     margin-top: 20px;
     justify-content: space-between;
-    padding: 0 120px 0 0;
+    align-items: center;
+    padding: 0 100px 0 0;
+    font-size: 24px;
 }
 
 
